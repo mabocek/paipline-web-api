@@ -1,8 +1,3 @@
-using System.Net;
-using Microsoft.Azure.Functions.Worker;
-using Microsoft.Azure.Functions.Worker.Http;
-using System.Text.Json;
-using TodoApi.Models;
 using Microsoft.Extensions.Hosting;
 
 namespace TodoApi;
